@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.donationHero {
+    background: url(/public/clockIcon.png);
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: cover;
+}
